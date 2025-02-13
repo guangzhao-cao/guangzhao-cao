@@ -14,7 +14,7 @@ I graduated with a **Master's degree** in **Computer Science** from the [Univers
 
 
 
-<h2>Conntact with me!</h2>
+<h2>Contact with me!</h2>
 
 ![](https://skillicons.dev/icons?i=gmail) 
 ![](https://skillicons.dev/icons?i=linkedin)

@@ -2,4 +2,6 @@
 
 Welcome to my page!
 
-My name is **Bradley Cao**, Fullstack developer from 🇨🇳 **Beijing, China**, currently living in 🇺🇸 **New Jersey, United States of America**.
+My name is **Bradley Cao**, a passionate Fullstack developer from 🇨🇳 **Beijing, China**, currently living in 🇺🇸 **New Jersey, United States of America**.
+
+I graduated from 

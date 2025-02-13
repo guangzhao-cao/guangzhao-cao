@@ -8,9 +8,14 @@ A passionate Fullstack developer from 🇨🇳 **Beijing, China**, currently liv
 
 I graduated with a **Master's degree** in **Computer Science** from the [University of Southern California](https://www.usc.edu/) in December 2024.
 
-<h2>Conntect</h2>
+<h2>Conntact with me!</h2>
 
-![My Contact](https://skillicons.dev/icons?i=gmail,linkedin)
+![](https://skillicons.dev/icons?i=gmail) 
+
+Gmail: [bradley.cao21@gmail.com](bradley.cao21@gmail.com)
+
+![](https://skillicons.dev/icons?i=linkedin)
+Linkedin: [https://www.linkedin.com/in/guangzhao-cao/](Linkedin: https://www.linkedin.com/in/guangzhao-cao/)
 
 <h2>Things I code with:</h2>
 

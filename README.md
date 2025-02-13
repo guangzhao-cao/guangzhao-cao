@@ -12,10 +12,11 @@ I graduated with a **Master's degree** in **Computer Science** from the [Univers
 
 ![](https://skillicons.dev/icons?i=gmail) 
 
-Gmail: [bradley.cao21@gmail.com](bradley.cao21@gmail.com)
+Gmail: [bradley.cao21@gmail.com](mailto:bradley.cao21@gmail.com)
 
 ![](https://skillicons.dev/icons?i=linkedin)
-Linkedin: [https://www.linkedin.com/in/guangzhao-cao/](Linkedin: https://www.linkedin.com/in/guangzhao-cao/)
+
+Linkedin: [https://www.linkedin.com/in/guangzhao-cao/](https://www.linkedin.com/in/guangzhao-cao/)
 
 <h2>Things I code with:</h2>
 

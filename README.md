@@ -10,4 +10,4 @@ I graduated with a **Master's degree** in **Computer Science** from the [Univers
 
 <h2>Things I code with:</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)

@@ -10,6 +10,9 @@ I graduated with a **Master's degree** in **Computer Science** from the [Univers
 
 <h2>Conntect</h2>
 
+![My Contact](https://skillicons.dev/icons?i=gmail,linkedin)
+
 <h2>Things I code with:</h2>
 
-![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)
+![My Skills](https://skillicons.dev/icons?i=java,swift,git,html,css,js,ts,angular,vue,bootstrap,nodejs,npm,spring,py,flask,anaconda,mysql,mongodb,postman,github,idea,pycharm,vscode,aws,docker,raspberrypi)
+

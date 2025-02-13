@@ -16,13 +16,13 @@ I graduated with a **Master's degree** in **Computer Science** from the [Univers
 
 <h2>Conntact with me!</h2>
 
-![](https://skillicons.dev/icons?i=gmail)   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-![](https://skillicons.dev/icons?i=linkedin)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img width="50" alt="截屏2025-02-13 下午6 03 37" src="https://github.com/user-attachments/assets/610d9205-69b0-4175-ae41-cd0b0f912cd3" />
+![](https://skillicons.dev/icons?i=gmail) 
+![](https://skillicons.dev/icons?i=linkedin)
+<img width="47" alt="截屏2025-02-13 下午6 03 37" src="https://github.com/user-attachments/assets/610d9205-69b0-4175-ae41-cd0b0f912cd3" />
 
+Gmail: [bradley.cao21@gmail.com](mailto:bradley.cao21@gmail.com) 
 
+Linkedin: [https://www.linkedin.com/in/guangzhao-cao/](https://www.linkedin.com/in/guangzhao-cao/)
 
-Gmail: [bradley.cao21@gmail.com](mailto:bradley.cao21@gmail.com)  &nbsp;&nbsp;
-Linkedin: [https://www.linkedin.com/in/guangzhao-cao/](https://www.linkedin.com/in/guangzhao-cao/)&nbsp;&nbsp;&nbsp;
 Leetcode: [https://leetcode.cn/u/guangzhaocao/](https://leetcode.cn/u/guangzhaocao/)
 

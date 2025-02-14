@@ -12,8 +12,6 @@ I graduated with a **Master's degree** in **Computer Science** from the [Univers
 
 ![My Skills](https://skillicons.dev/icons?i=java,swift,git,html,css,js,ts,angular,vue,bootstrap,nodejs,npm,spring,py,flask,anaconda,mysql,mongodb,postman,github,idea,pycharm,vscode,aws,docker,raspberrypi)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guangzhao-cao&theme=tokyonight)
-
 
 <h2>Contact with me!</h2>
 

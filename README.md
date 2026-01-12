@@ -4,7 +4,16 @@ Welcome to my page!
 
 My name is **Bradley Cao**! 
 
-A passionate Fullstack developer from 🇨🇳 **Beijing, China**, currently living in 🇺🇸 **New Jersey, United States of America**.
+A passionate Full-Stack Developer originally from 🇨🇳 Beijing, China.
+
+I founded NULLSET TECH LLC on March 19, 2025, and have been operating the company since then.
+Our official website is https://nullsettech.com.
+
+In mid-September 2025, I relocated from 🇺🇸 New Jersey, USA back to 🇨🇳 Beijing, where I am currently based. My current work focuses on AIGC research, with strong interests in robotics and embodied intelligence.
+
+My academic background bridges both hardware and software:
+- Bachelor’s degree with a focus on hardware and embedded systems
+- Master’s degree with a focus on software and system development
 
 I graduated with a **Master's degree** in **Computer Science** from the [University of Southern California](https://www.usc.edu/) in December 2024.
 

@@ -21,7 +21,7 @@ My Resume: [RESUME](https://drive.google.com/file/d/1uJeBOE0lPTEJUBmi1dBTwoR9KRe
 
 <h2>Things I code with:</h2>
 
-![My Skills](https://skillicons.dev/icons?i=java,swift,git,html,css,js,ts,angular,vue,bootstrap,nodejs,npm,spring,py,flask,anaconda,mysql,mongodb,postman,github,idea,pycharm,vscode,aws,docker,raspberrypi)
+![My Skills](https://skillicons.dev/icons?i=java,swift,html,css,js,ts,angular,vue,bootstrap,nodejs,npm,spring,py,flask,fastapi,anaconda,mysql,mongodb,git,github,aws,docker,postman,idea,pycharm,vscode,raspberrypi,wordpress,apple,pr)
 
 
 <h2>Contact with me!</h2>

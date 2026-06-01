@@ -17,7 +17,7 @@ My academic background bridges both hardware and software:
 
 I graduated with a **Master's degree** in **Computer Science** from the [University of Southern California](https://www.usc.edu/) in December 2024.
 
-My Resume: [RESUME](https://drive.google.com/file/d/1uJeBOE0lPTEJUBmi1dBTwoR9KReeDyaM/view?usp=drive_link)
+My Resume: [RESUME](https://drive.google.com/file/d/132f1uI4K_ko66j7vNQP1ZZLi4SxRgWNE/view?usp=drive_link)
 
 <h2>Things I code with:</h2>
 

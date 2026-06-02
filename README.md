@@ -6,7 +6,7 @@ My name is **Bradley Cao**!
 
 A passionate Developer originally from 🇨🇳 Beijing, China. My current work focuses on AIGC research, with strong interests in robotics and embodied intelligence.
 
-My Portfolio: [guangzhao-cao.github.io](https://guangzhao-cao.github.io) | My Resume: [RESUME](https://drive.google.com/file/d/132f1uI4K_ko66j7vNQP1ZZLi4SxRgWNE/view?usp=drive_link)
+My Portfolio: [guangzhao-cao.github.io](https://guangzhao-cao.github.io) | My Resume: [RESUME](https://drive.google.com/file/d/1DtPrZkmHa4Diy9YlhCGc6aWDZHOc7CNt/view?usp=drive_link)
 
 I founded NULLSET TECH LLC on March 19, 2025, and operated the company until April 2026.
 

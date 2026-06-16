@@ -10,7 +10,7 @@ My Portfolio: [guangzhao-cao.github.io](https://guangzhao-cao.github.io) | My Re
 
 I founded NULLSET TECH LLC on March 19, 2025, and operated the company until April 2026.
 
-In October 2025, I relocated to 🇯🇵 Tokyo, Japan, where I am currently based. 
+I was based in 🇯🇵 Tokyo, Japan from October 2025 until June 2026, and I am now based in 🇨🇳 Beijing, China.
 
 My academic background bridges both hardware and software:
 - Bachelor's degree with a focus on hardware and embedded systems

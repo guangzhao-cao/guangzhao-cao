@@ -1,5 +1,7 @@
 <h1 align="center">Hi there 👋. Nice to see You!</h1>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&width=850&lines=Welcome+to+my+page!;My+name+is+Bradley+Cao!;I'm+a+passionate+developer+from+🇨🇳+Beijing%2C+China.;Currently+focused+on+AIGC%2C+robotics%2C+and+embodied+intelligence.)](https://git.io/typing-svg)
+
 Welcome to my page!
 
 My name is **Bradley Cao**! 
